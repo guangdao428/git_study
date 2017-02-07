@@ -1,3 +1,3 @@
 <?php
-echo 'hello,world';
+echo 'hello,world,merge1';
 phpinfo();
