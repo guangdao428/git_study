@@ -1,3 +1,3 @@
 <?php
-echo 'aaa1';
+echo 'aaa';
 echo 'abc';
